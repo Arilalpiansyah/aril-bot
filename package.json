@@ -1,0 +1,16 @@
+{
+  "name": "aril-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot dengan fitur lengkap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "axios": "^1.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-cache": "^5.1.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
